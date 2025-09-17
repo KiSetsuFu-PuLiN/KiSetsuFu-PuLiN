@@ -1,4 +1,4 @@
-# 24岁，事萌新
+# 24岁，事萌新。
 
 <!---
 KiSetsuFu-PuLiN/KiSetsuFu-PuLiN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
